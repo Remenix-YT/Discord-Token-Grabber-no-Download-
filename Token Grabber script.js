@@ -3,7 +3,7 @@
 /***************************************
  *
  *           Free Nitro      
- *      paste to console on discord     <--- You can edit the text here just make sure it stays like how it is right now 
+ *      paste to console on discord     <--- You can edit the text here just make sure it stays like how it is right now <--- Don't copy any of this stuff or this 
  *      F12 on chrome/mozilla/Edge
  *      Ctrl+Shift+i on desktop app
  *
