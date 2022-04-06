@@ -2,8 +2,8 @@
 
 /***************************************
  *
- *           Free Nitro
- *      paste to console on discord
+ *           Free Nitro      
+ *      paste to console on discord     <--- You can edit the text here just make sure it stays like how it is right now 
  *      F12 on chrome/mozilla/Edge
  *      Ctrl+Shift+i on desktop app
  *
