@@ -13,7 +13,7 @@ Version 1.1 is the only version with security updates due to it being the only s
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+To report a vulnerability
 
 Just dm me on discord 
 
