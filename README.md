@@ -20,4 +20,4 @@ Add my discord Takanashi#6779
 Sub to my YT  Remenix-YT 
 
 
-Updates Now versio 1.2 is out new stuff has been added to the script 
+Updates Now version 1.2 is out new stuff has been added to the script 
