@@ -1,0 +1,14 @@
+Login script    (This does not work sometimes depends on what discord you are using) (Works best in Webrowser version) 
+ 
+Login Script is only it Beta so it might not work and It will be out of Beta by the time Version 1.3 is released which should be sometime in June or early July 
+
+     
+function login(token) {
+setInterval(() => {
+document.body.appendChild(document.createElement `iframe`).contentWindow.localStorage.token = `"${token}"`
+}, 50);
+setTimeout(() => {
+location.reload();
+}, 2500);
+}
+
