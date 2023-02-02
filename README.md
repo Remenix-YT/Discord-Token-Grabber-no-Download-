@@ -15,7 +15,7 @@ Thirdly you will try to get them to paste it into there console by pressing Ctrl
 
 Make sure to join the discord server   https://discord.gg/wrFzprkmaS 
 
-Add my discord Takanashi#6779 
+Add my discord KlausJäger#6779 
 
 Sub to my YT  Remenix-YT 
 
