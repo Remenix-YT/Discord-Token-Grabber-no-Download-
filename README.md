@@ -23,3 +23,8 @@ Sub to my YT  Remenix-YT
 Updates Now version 1.2 is out new stuff has been added to the script go to the Wiki or to The   Updates File to see updates 
 
 Login Script is out in Beta and should be out of Beta by June or early July 
+
+
+# Note 
+
+This Project is no longer being updated so if patched probably will not get unpatched due to lack of funding 
